@@ -1,0 +1,193 @@
+body{
+    background-color: rgb(84, 88, 150);
+    font: normal pt Georgia;
+}
+h1{
+    Lucida Calligraphy;
+}
+p{
+    Lucida Calligraphy;
+}
+
+
+header{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+button{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+section{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+#inicio{
+    width: 400px;
+    position: absolute;
+    top: 120px;
+    left: 60px;
+ margin: 30px;
+    background-color: rgb(119, 106, 179);
+    color: rgb(0, 0, 0);
+    font-style: Georgia 
+
+}
+#principal{
+    width: 400px;
+    position: absolute;
+    top: 120px;
+    left: 530px;
+ margin: 30px;
+    background-color: rgb(119, 106, 179);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+}
+#outra{
+    width: 400px;
+    position: absolute;
+    top: 120px;
+    left: 1000px;
+ margin: 30px;
+    background-color: rgb(119, 106, 179);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#mais{
+    width: 400px;
+    position: absolute;
+    top: 300px;
+    left: 60px;
+ margin: 30px;
+    background-color: rgb(119, 106, 179);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#produtos{
+    width: 400px;
+    position: absolute;
+    top: 320px;
+    left: 530px;
+ margin: 30px;
+    background-color: rgb(119, 106, 179);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#produtos2{
+    width: 400px;
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+ margin: 30px;
+ background-color: rgb(81, 66, 145);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#produtos3{
+    width: 400px;
+    position: absolute;
+    top: 600px;
+    left: 1000px;
+ margin: 30px;
+ background-color: rgb(81, 66, 145);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#fim{
+    width: 400px;
+    position: absolute;
+    top: 430px;
+    left: 60px;
+ margin: 30px;
+ background-color: rgb(59, 50, 92);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#final{
+    width: 150px;
+    position: absolute;
+    top: 500px;
+    left: 530px;
+ margin: 30px;
+ background-color: rgb(59, 50, 92);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#final2{
+    width: 150px;
+    position: absolute;
+    top: 480px;
+    left: 531px;
+ margin: 30px;
+ background-color: rgb(59, 50, 92);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}
+#titulo{
+    width: 80px;
+    position: absolute;
+    top: 270px;
+    left: 210px;
+ margin: 30px;
+ background-color: rgb(81, 66, 145);
+    color: rgb(0, 0, 0);
+    font-style: Lucida Calligraphy
+
+}
+#titulo2{
+    width: 80px;
+    position: absolute;
+    top: 290px;
+    left: 680px;
+ margin: 30px;
+ background-color: rgb(81, 66, 145);
+    color: rgb(0, 0, 0);
+    font-style: Lucida Calligraphy
+
+}
+#titulo3{
+    width: 80px;
+    position: absolute;
+    top: 365px;
+    left: 1140px;
+ margin: 30px;
+ background-color: rgb(81, 66, 145);
+    color: rgb(0, 0, 0);
+    
+}
+#fim2{
+    width: 200px;
+    position: absolute;
+    top: 400px;
+    left: 150px;
+ margin: 30px;
+ background-color: rgb(59, 50, 92);
+    color: rgb(0, 0, 0);
+    
+}
+#nova{
+    width: 1000px;
+    position: absolute;
+    top: 90px;
+    left: 300px;
+ margin: 30px;
+ background-color: rgb(59, 50, 92);
+    color: rgb(0, 0, 0);
+    font-style: Georgia
+
+}

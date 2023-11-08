@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>H A L L O W E N</title>
+    
+    <link rel="shortcut icon" href="imagens/black-evil-cat.png" type="black-evil-cat">
+    <link rel="stylesheet" href="ESTILO/halloween.css">
+</head>
+
+
+<body>
+    <header>
+<br><br><br>
+    <h1>Seja bem vindo ao meu hallowen site</h1>
+    <img id="inicial" src="imagens/jack-o-lantern.png" alt="jack-o-lantern">
+     
+    </header>
+
+
+    <section> 
+        <a href="https://bocadoinferno.com.br/assunto/filmes-de-terror/"><button id="boca">Boca de Inferno</button></a>
+
+       <span id="principal">
+         
+           <p> Aqui o horror se materializa em sua forma mais brutal e avassaladora, embriagando-nos com o miasma pútrido que emana das profundezas mais obscuras de um universo além da compreensão humana. Você entrará em contato com dimensões paralelas à realidade conhecida, levando-o a atingir níveis inexplorados de pura insanidade, onde civilizações bestiais reinam poderosas em seus impérios de devastação eterna, aguardando apenas o momento oportuno para retomarem seu poder maligno sobre o planeta.
+            Você conhecerá a identidade soberana do mal em seu estado absoluto, a entidade pestilenta que canaliza toda a dor e depressão da humanidade em decadência, alimentando suas entranhas com pilhas de cadáveres decompostos na mais obscena putrefação da carne.   
+           </p>
+       </span>
+
+       <a href="https://zonasombria.com.br/"><button id="zona">Zona Sombria</button></a>
+       <span id="foto">
+
+        <img id="terror" src="imagens/3077587.webp" alt="maligno">
+        <br><br>
+        
+        
+
+    </span>
+
+    </section>
+
+    <script>
+       let nome = window.prompt('ola! qual seu nome?')
+       let filme = window.prompt('qual seu filme de terror favorito?')
+       window.alert(`prazer em te conhecer ${nome}! é bom saber que você gosta de ${filme}. 👻`)
+   
+    </script>
+
+<button id="msg" onclick="inicio()">boo</button>
+<section id="resultado">
+</section>
+
+<script>
+    function inicio(){
+     let curso = window.prompt ('voce quer assistir a um filme de terror? ')
+     let res = window.document.getElementById ('resultado')
+     res.innerHTML=`baseado em sua resposta ${curso}, clique em algum site`
+    }
+
+ </script>
+ 
+ 
+
+</body>
+</html>

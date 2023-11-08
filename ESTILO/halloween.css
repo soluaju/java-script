@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(49, 3, 3);
+    text-align: center ;
+    font-family: Matura MT Script Capitals;
+}
+h1{
+    font-family:  French Script MT;
+}
+
+#inicial{
+    width: 70px;
+}
+
+section{
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 500px;
+    margin:20px;
+    text-align: left;
+}
+
+#principal{
+    width: 380px;
+    position: absolute;
+    top: 400px;
+    left: 5px;
+ margin: 20px;
+    background-color: rgb(0, 0, 0);
+    color: brown;
+}
+#boca{
+    color: red;
+    background-color: black;
+    position: absolute;
+    left: 60px;
+    top: 390px;
+}
+
+#foto{
+    
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    margin: 20px;
+}
+#terror{
+    width: 250px;
+}
+#zona{
+    color: red;
+    background-color: black;
+    position: absolute;
+    left: 490px;
+    top: 390px;
+}
+
+#msg{
+width: 100px;
+border-radius: 10px;
+margin: none;
+font-family: Matura MT Script Capitals;
+}
+
+<footer>
+                <p>&COPY; Kamilly Bazolli</p>
+                <p>&COPY; Julia Souza</p>
+                <p>&COPY; Joaquim Petry</p>
+                <p>&COPY; Joao Vitor</p>
+            </footer>
+

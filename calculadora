@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📅</title>
+
+</head>
+
+<body>
+
+    <H1>calculadora<H1>
+<button> onclick="adicao()">adicao</button>
+<button> onclick="subtracao()">subtracao</button>    
+<button> onclick="multiplicacao()">multiplicacao</button>
+<button> onclick="divisao()"divisao</button>
+
+<section id="resultado">
+    <p>resultado aqui</p>
+</section>
+<script src="calc.js"></script>
+
+</body>
